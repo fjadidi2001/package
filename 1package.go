@@ -5,7 +5,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("easy")
+	fmt.Println("easy1")
 }
 
 //packagename.FunctionName() is the syntax to call a function in a package
